@@ -1,0 +1,280 @@
+- Steelblue-spotted Hawk
+- Sienna-ringed Conure
+- Yellow-spotted Conure
+- Violet-ringed Ibis
+- Pink-spotted Dove
+- Green-spotted Conure
+- Blue-ringed Conure
+- Red-striped Hawk
+- Pink-ringed Ibis
+
+- Oswald's Brown Conure
+- Sam's White Duck
+- Hal's Red Eagle
+- Mario & Luigi's Orange Conure
+- Chief's Blue Eagle
+- Cliff's Indigo Duck
+- Cagney's Olive Duck
+- Daisy's Brown Ibis
+- Horace's Red Owl
+
+- Mistyrose-striped Dove
+- Crimson-striped Conure
+- Sienna-striped Ibis
+- Red-striped Dove
+- Violet-ringed Duck
+- Steelblue-ringed Dove
+- Sienna-ringed Conure
+- Red-spotted Duck
+- Orange-striped Owl
+
+- Daisy's Brown Conure
+- Hayley's Olive Hawk
+- Donald's Brown Conure
+- Mario & Luigi's Brown Duck
+- Charlie's Pink Duck
+- Norm's Mistyrose Eagle
+- Oswald's Mistyrose Conure
+- Scrooge's Yellow Conure
+- Diane's Indigo Owl
+
+- Crimson-ringed Eagle
+- Brown-ringed Eagle
+- Brown-spotted Owl
+- Indigo-spotted Conure
+- Maroon-spotted Hawk
+- Gold-striped Eagle
+- Gold-ringed Hawk
+- Teal-striped Duck
+- Gold-spotted Owl
+
+- Rita's Maroon Conure
+- Rita's Orange Owl
+- Mickey's Teal Owl
+- Charlie's Mistyrose Dove
+- Cliff's Green Owl
+- Johnny's Blue Owl
+- Cagney's White Conure
+- Carla's Red Duck
+- Disney's Violet Eagle
+
+- Crimson-spotted Dove
+- Gold-spotted Owl
+- Yellow-spotted Conure
+- Gold-spotted Conure
+- Blue-striped Dove
+- Orange-ringed Eagle
+- Steelblue-ringed Hawk
+- White-ringed Conure
+- Orange-striped Dove
+
+- Chief's Steelblue Hawk
+- Woody's Olive Dove
+- Cliff's Orange Hawk
+- Scrooge's Red Dove
+- Daisy's Gold Ibis
+- Norm's Orange Owl
+- Jane's Brown Eagle
+- Donald's Teal Owl
+- Jane's Yellow Dove
+
+- White-ringed Duck
+- Yellow-spotted Dove
+- Sienna-spotted Ibis
+- Crimson-spotted Duck
+- Indigo-striped Hawk
+- Teal-ringed Duck
+- White-ringed Ibis
+- Teal-ringed Duck
+- Gold-ringed Dove
+
+- Ash's Mistyrose Conure
+- Jane's Violet Ibis
+- Oswald's Gold Ibis
+- Scrooge's Orange Dove
+- Rita's Maroon Ibis
+- Diane's Maroon Dove
+- Sam's Pink Owl
+- Scrooge's Orange Conure
+- Harrison Ford's Maroon Ibis
+
+- Blue-spotted Ibis
+- Orange-spotted Conure
+- Aqua-striped Owl
+- Teal-spotted Dove
+- Violet-ringed Dove
+- Gold-ringed Duck
+- Orange-striped Duck
+- Pink-spotted Hawk
+- Blue-ringed Dove
+
+- Nova's Violet Ibis
+- Hal's Indigo Dove
+- Woody's Aqua Duck
+- Johnny's Orange Duck
+- Scrooge's Sienna Eagle
+- Oswald's Pink Owl
+- Cagney's Crimson Dove
+- Johnny's Sienna Hawk
+- Chief's Violet Eagle
+
+- Maroon-striped Duck
+- Teal-ringed Owl
+- Gold-spotted Ibis
+- Green-striped Hawk
+- Crimson-striped Eagle
+- Indigo-striped Eagle
+- Aqua-ringed Hawk
+- Brown-striped Duck
+- Brown-ringed Eagle
+
+- Sam's Gold Duck
+- Chell's Indigo Owl
+- Carla's Violet Duck
+- Disney's Brown Hawk
+- Johnny's Mistyrose Hawk
+- Charlie's Orange Ibis
+- Jane's Sienna Ibis
+- Mickey's Blue Duck
+- Diane's Blue Duck
+
+- Yellow-spotted Hawk
+- Brown-ringed Duck
+- Maroon-ringed Ibis
+- Orange-ringed Owl
+- Blue-striped Ibis
+- Sienna-spotted Hawk
+- Olive-spotted Owl
+- Green-striped Duck
+- Aqua-ringed Ibis
+
+- Harrison Ford's Pink Duck
+- Michelle's Green Dove
+- Mickey's Steelblue Dove
+- Hal's Sienna Conure
+- Nova's Teal Conure
+- Nova's Pink Eagle
+- Chief's Green Ibis
+- Hayley's Yellow Ibis
+- Mickey's Yellow Duck
+
+- Violet-ringed Owl
+- Mistyrose-spotted Eagle
+- Mistyrose-spotted Hawk
+- Teal-striped Hawk
+- Yellow-ringed Conure
+- Maroon-ringed Owl
+- Green-striped Duck
+- Olive-ringed Conure
+- Teal-ringed Hawk
+
+- Chell's Steelblue Conure
+- Daisy's Red Hawk
+- Hal's Maroon Owl
+- Horace's Sienna Owl
+- Katie's Red Duck
+- Marie's Blue Ibis
+- Ash's White Ibis
+- Mickey's White Duck
+- Norm's Olive Conure
+
+- Crimson-striped Hawk
+- Violet-spotted Ibis
+- Steelblue-striped Eagle
+- Red-spotted Eagle
+- White-ringed Ibis
+- Maroon-spotted Duck
+- Indigo-spotted Dove
+- Mistyrose-striped Owl
+- Green-ringed Owl
+
+- Rita's Sienna Ibis
+- Jane's Red Conure
+- Katie's Green Ibis
+- Disney's Sienna Ibis
+- Bon Bon's Gold Dove
+- Carla's Aqua Eagle
+- Disney's Aqua Conure
+- Mickey's White Eagle
+- Ash's Green Ibis
+
+- Blue-spotted Eagle
+- Aqua-striped Owl
+- Teal-striped Duck
+- Green-striped Dove
+- Blue-ringed Conure
+- Violet-spotted Eagle
+- Yellow-striped Conure
+- Teal-ringed Conure
+- Teal-striped Owl
+
+- Diane's Maroon Owl
+- Hayley's Steelblue Eagle
+- Donald's Yellow Hawk
+- Jane's Teal Eagle
+- Chell's Sienna Eagle
+- Nova's Teal Hawk
+- Hal's Aqua Conure
+- Chief's Pink Duck
+- Daisy's Indigo Duck
+
+- Brown-spotted Eagle
+- Crimson-spotted Owl
+- Orange-striped Hawk
+- White-ringed Duck
+- Crimson-striped Hawk
+- Pink-ringed Eagle
+- Indigo-ringed Eagle
+- Green-spotted Hawk
+- Pink-ringed Duck
+
+- Hal's Yellow Ibis
+- Nova's Blue Owl
+- Johnny's Green Duck
+- Oswald's Pink Conure
+- Hal's Violet Eagle
+- Mario & Luigi's Maroon Duck
+- Hayley's Teal Ibis
+- Minnie's Indigo Dove
+- Rita's Brown Hawk
+
+- Aqua-spotted Ibis
+- Indigo-spotted Dove
+- Yellow-ringed Dove
+- Orange-spotted Dove
+- Green-striped Conure
+- Crimson-ringed Duck
+- Blue-ringed Owl
+- White-ringed Duck
+- Sienna-ringed Dove
+
+- Jane's Red Conure
+- Carla's Pink Ibis
+- Carla's Brown Eagle
+- Carla's Indigo Conure
+- Johnny's Mistyrose Conure
+- Scrooge's Crimson Ibis
+- Bon Bon's Orange Owl
+- Donald's Gold Hawk
+- Jane's Olive Owl
+
+- Violet-striped Dove
+- Aqua-striped Ibis
+- Blue-spotted Duck
+- Green-spotted Dove
+- Maroon-striped Eagle
+- Red-striped Dove
+- Teal-striped Conure
+- Red-spotted Hawk
+- Violet-ringed Ibis
+
+- Cagney's Green Ibis
+- Hal's Yellow Dove
+- Diane's Olive Ibis
+- Horace's Violet Hawk
+- Sam's Pink Duck
+- Chell's White Duck
+- Sam's Green Hawk
+- Daisy's Gold Dove
+- Michelle's Teal Conure
+
