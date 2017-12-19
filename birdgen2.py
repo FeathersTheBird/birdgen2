@@ -6,17 +6,11 @@ from PIL import ImageChops
 import os
 import picmaker as picmaker
 from picmaker import *
-#from picmaker import genPic
 
 os.system("title BirdGen 3000")
 
 def main():
-	
-	#def makePic1(spe, col, anname):
-	#	 from picmaker import genPic1
-	
-	#def makePic2(spe, col, annameONE):
-	#	 from picmaker import genPic2
+
 	
 	f = open('birdgen.txt','a')
 	
@@ -67,7 +61,7 @@ def main():
 		"Owl",
 		"Finch",
 		"Swallow",
-		#"Robin"
+		"Robin"
 	]
 	
 	names = [
@@ -154,7 +148,7 @@ def main():
 		imeg = Image.open("BIRDS/" + str(annameONE + ".png"))
 		imeg.show()
 		print(" ")
-		printOptions()
+		#printOptions()
 		
 	def birdSpeOptions():
 		print(" ")
@@ -168,6 +162,7 @@ def main():
 		print(species[6] + ": 6")
 		print(species[7] + ": 7")
 		print(species[8] + ": 8")
+		print(species[9] + ": 9")
 		return input("TYPE THE NUMBER TO SELECT: ")
 		
 	def birdColOptions():
@@ -235,6 +230,9 @@ def main():
 			print("You have selected " + spe + ".")
 		elif BIRDSPE == 8:
 			spe = (species[8])
+			print("You have selected " + spe + ".")
+		elif BIRDSPE == 9:
+			spe = (species[9])
 			print("You have selected " + spe + ".")
 		else:
 			return input("Pick a valid species, please. ")
@@ -335,7 +333,7 @@ def main():
 		print(options[3])
 		print(" ")
 		return input("Type selection and hit enter for birdy fun! ")
-		
+	
 	selection = int(printOptions())
 	if selection == 0:
 		birdSpore()
